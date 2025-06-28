@@ -200,22 +200,11 @@ pip install -r requirements.txt --force-reinstall
 - Ensure the CSV file is in the `dataset/` folder
 - Check file permissions
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Create an issue on GitHub
-- Check the troubleshooting section above
-- Review the code comments for guidance
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
-
-- Data Science Jobs Salaries dataset contributors
-- Flask community for the excellent framework
-- Open source libraries that made this project possible
 
 ---
 

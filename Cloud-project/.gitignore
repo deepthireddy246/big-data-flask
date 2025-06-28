@@ -28,11 +28,13 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (if they're too large)
+# Data files (excluding from root, but allowing in data sets directory)
 *.csv
 *.json
 *.xlsx
 *.xls
+!data sets/*.csv
+!data sets/*.json
 
 # Logs
 *.log
